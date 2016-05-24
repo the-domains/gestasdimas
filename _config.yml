@@ -1,0 +1,28 @@
+name: gestasdimas
+favicon: null
+layout_spectrum: 0.6632247529923916
+typography_spectrum: 0.07270106999203563
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8349357431288809
+  lightness: 0.815465867286548
+  saturation: 0.977197227999568
+  rhythmicContrast: 0.9259712281636894
+purpose: []
